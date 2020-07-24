@@ -9,6 +9,7 @@ npm start
 ## Pre-requisites:
 1. Get an API KEY from https://openweathermap.org/api
 2. Add the API Details and MongoDB Credentials to an .env file(see attached `.envsample` file for reference)
+3. Please uncomment the line number 20 in `server.js` in order to add the city entry in the database.
 
 
 ## Below is the end points that can be tested with Curl and Postman:

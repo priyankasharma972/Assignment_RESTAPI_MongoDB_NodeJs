@@ -17,6 +17,9 @@ var citySchema = new mongoose.Schema({
 );
 
 var cityModel = mongoose.model('City', citySchema);
+//var covilha = new cityModel({name : 'covilha'});
+
+
 async function getWeather(cities) {
 
     var weather_data = [];
