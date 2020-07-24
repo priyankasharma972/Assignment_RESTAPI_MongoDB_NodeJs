@@ -1,11 +1,10 @@
 ## This is a Weather App.
 It is RESTful Webservice and is created with Node.js and MongoDB Atlas as the database.
 
-## Please install below in order to test the application:
-npm install 
-n
+## Please use below in order to test the application:
+npm install request-promise
 npm start
-npm install mongodb
+
 
 ## Below is the end points that can be tested with Curl and Postman:
 1. http://localhost:8000/currenttempincovilha
