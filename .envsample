@@ -1,0 +1,2 @@
+OPEN_WEATHER_API_KEY=# Add your own API KEY
+DB_CONNECTION_URL=mongodb+srv://YOUR-USERNAME:YOUR-PASSWORD@cluster0.qkhmm.mongodb.net/YOUR-DATABASE-NAME

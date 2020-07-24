@@ -1,9 +1,14 @@
 ## This is a Weather App.
 It is RESTful Webservice and is created with Node.js and MongoDB Atlas as the database.
+This project uses https://openweathermap.org/api as the Weather API
 
-## Please use below in order to test the application:
+## Installation Steps:
 npm install request-promise
 npm start
+
+## Pre-requisites:
+1. Get an API KEY from https://openweathermap.org/api
+2. Add the API Details and MongoDB Credentials to an .env file(see attached `.envsample` file for reference)
 
 
 ## Below is the end points that can be tested with Curl and Postman:
